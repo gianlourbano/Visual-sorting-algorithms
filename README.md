@@ -10,6 +10,6 @@ In the command prompt there will be printed the elapsed time to sort the array a
 
 ---
 
-### knows issues
+### Known issues
 
 While a sort is running, the main windows cannot be closed. To exit the program, close the command prompt.
